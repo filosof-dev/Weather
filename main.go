@@ -73,10 +73,11 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-
-	fmt.Printf("Температура в %s: %.1f°C",
-		geo.Results[0].Name,
-		weather.Current.Temperature)
+	/*
+		fmt.Printf("Температура в %s: %.1f°C",
+			geo.Results[0].Name,
+			weather.Current.Temperature)
+	*/
 
 }
 

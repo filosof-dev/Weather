@@ -46,10 +46,10 @@ Weather/
 Результат:  
 <img width="403" height="65" alt="image" src="https://github.com/user-attachments/assets/a6b7119a-ad6a-42c4-b130-e835b99b6d58" />   
 
-Работа команда help:  
+Работа команды help:  
 <img width="391" height="109" alt="image" src="https://github.com/user-attachments/assets/ef68569f-5a50-484d-b4ad-23b570e50917" />   
 
-Выход из приложения:  
+Выход из приложения командой exit:  
 <img width="386" height="70" alt="image" src="https://github.com/user-attachments/assets/d22c4a8c-36ed-4755-8fe6-f25e8652eaa1" />  
 
 ## 📜 Лицензия:  
